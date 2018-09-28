@@ -1,0 +1,35 @@
+img {
+    height: 200px;
+    width: 200px;
+    border-radius: 5px;
+    border: 2px solid #1c507d;
+    transition: transform .2s;
+
+}
+img:hover {
+
+    cursor: pointer;
+    height: 210px;
+    width: 210px;
+
+ }
+
+.social-icon li a  {
+    font-size: 40px;
+}
+
+.ping-me {
+    font-size: 30px;
+    font-weight: bold;
+
+}
+footer {
+    background-color: #161616;
+}
+.color-yellow {
+    font-weight: bold;
+    font-size: 20px;
+}
+.custom-navbar .navbar-brand {
+    font-size: 40px;
+}
